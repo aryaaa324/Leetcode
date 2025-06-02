@@ -2,14 +2,6 @@
 This repository contains all the leetcode must solve problems 
 
 ## HOW TO APPROACH A PROBLEM?
-Here’s how you can structure the GitHub `README.md` along with the **C++ code** for the problem **"Find the First Non-Repeating Character in a String"**:
-
----
-
-### 📘 `README.md`
-
-
-# 🧠 Problem Solving Roadmap + Sample Problem in C++
 
 ## ✅ 1. Understand the Problem First
 
