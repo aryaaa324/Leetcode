@@ -1,21 +1,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> hashmap;  // num -> index
+        int n = nums.size();
 
-        for (int i = 0; i < nums.size(); ++i) {
-            int complement = target - nums[i];
-
-            // Check if complement is already in the map
-            if (hashmap.find(complement) != hashmap.end()) {
-                return {hashmap[complement], i};
+        
+        for (int i = 0; i < n; ++i) {
+            for (int j = i + 1; j < n; ++j) {
+                if (nums[i] + nums[j] == target) {
+                    return {i, j};
+                }
             }
-
-            // Store the current number and its index
-            hashmap[nums[i]] = i;
         }
 
-        return {}; 
+        return {};
         
     }
 };
