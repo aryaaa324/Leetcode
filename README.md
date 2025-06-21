@@ -145,11 +145,13 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/aryaaa324/Leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryaaa324/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaaa324/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/aryaaa324/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/aryaaa324/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
