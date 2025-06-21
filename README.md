@@ -145,4 +145,12 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
