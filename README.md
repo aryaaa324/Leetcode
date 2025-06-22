@@ -152,6 +152,7 @@ This README serves as a cheat-sheet and includes:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aryaaa324/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aryaaa324/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryaaa324/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -171,6 +172,7 @@ This README serves as a cheat-sheet and includes:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaaa324/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -206,4 +208,8 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aryaaa324/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
