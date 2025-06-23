@@ -143,6 +143,7 @@ This README serves as a cheat-sheet and includes:
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryaaa324/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -152,6 +153,7 @@ This README serves as a cheat-sheet and includes:
 | [0013-roman-to-integer](https://github.com/aryaaa324/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/aryaaa324/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaaa324/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryaaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -188,6 +190,7 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryaaa324/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aryaaa324/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -205,6 +208,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaaa324/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -223,4 +227,12 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
