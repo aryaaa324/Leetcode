@@ -141,6 +141,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryaaa324/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
