@@ -145,6 +145,7 @@ This README serves as a cheat-sheet and includes:
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aryaaa324/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryaaa324/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
