@@ -142,6 +142,7 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/aryaaa324/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
@@ -236,6 +237,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,5 +250,6 @@ This README serves as a cheat-sheet and includes:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
