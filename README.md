@@ -156,6 +156,7 @@ This README serves as a cheat-sheet and includes:
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryaaa324/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/aryaaa324/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryaaa324/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ This README serves as a cheat-sheet and includes:
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaaa324/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/aryaaa324/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aryaaa324/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -274,4 +276,8 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aryaaa324/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
