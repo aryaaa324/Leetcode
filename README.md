@@ -143,6 +143,7 @@ This README serves as a cheat-sheet and includes:
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryaaa324/Leetcode/tree/master/0118-pascals-triangle) |
@@ -200,6 +201,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryaaa324/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aryaaa324/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -259,4 +261,8 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
