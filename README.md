@@ -146,6 +146,7 @@ This README serves as a cheat-sheet and includes:
 | [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryaaa324/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryaaa324/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aryaaa324/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aryaaa324/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
@@ -267,6 +269,7 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
