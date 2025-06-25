@@ -145,6 +145,7 @@ This README serves as a cheat-sheet and includes:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryaaa324/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryaaa324/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -265,4 +266,9 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
