@@ -141,6 +141,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
@@ -189,6 +190,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaaa324/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -216,6 +218,7 @@ This README serves as a cheat-sheet and includes:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
