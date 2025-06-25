@@ -148,6 +148,7 @@ This README serves as a cheat-sheet and includes:
 | [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryaaa324/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryaaa324/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aryaaa324/Leetcode/tree/master/0136-single-number) |
@@ -199,6 +200,7 @@ This README serves as a cheat-sheet and includes:
 | [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaaa324/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0283-move-zeroes) |
@@ -227,6 +229,7 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
