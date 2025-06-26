@@ -143,6 +143,7 @@ This README serves as a cheat-sheet and includes:
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/aryaaa324/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aryaaa324/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryaaa324/Leetcode/tree/master/0054-spiral-matrix) |
@@ -261,6 +262,7 @@ This README serves as a cheat-sheet and includes:
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aryaaa324/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/aryaaa324/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
