@@ -1,7 +1,7 @@
 # Leetcode
-This repository contains all the leetcode must solve problems.
+This repository contains all the leetcode must solve problems
 
-## HOW TO APPROACH A PROBLEM?
+# HOW TO APPROACH A PROBLEM?
 
 ## ✅ 1. Understand the Problem First
 
