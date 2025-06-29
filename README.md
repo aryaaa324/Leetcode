@@ -1,5 +1,5 @@
 # Leetcode
-This repository contains all the leetcode must solve problems
+This repository contains all the leetcode must solve problems.
 
 # HOW TO APPROACH A PROBLEM?
 
