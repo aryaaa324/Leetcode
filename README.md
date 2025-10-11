@@ -158,6 +158,7 @@ This README serves as a cheat-sheet and includes:
 | [0152-maximum-product-subarray](https://github.com/aryaaa324/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/aryaaa324/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aryaaa324/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0283-move-zeroes) |
@@ -174,6 +175,7 @@ This README serves as a cheat-sheet and includes:
 | [0073-set-matrix-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aryaaa324/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/aryaaa324/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaaa324/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -238,6 +240,7 @@ This README serves as a cheat-sheet and includes:
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aryaaa324/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aryaaa324/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryaaa324/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryaaa324/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaaa324/Leetcode/tree/master/0451-sort-characters-by-frequency) |
