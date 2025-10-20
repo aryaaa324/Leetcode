@@ -141,6 +141,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryaaa324/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aryaaa324/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -210,6 +211,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aryaaa324/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/aryaaa324/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryaaa324/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aryaaa324/Leetcode/tree/master/0075-sort-colors) |
@@ -229,6 +231,7 @@ This README serves as a cheat-sheet and includes:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryaaa324/Leetcode/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/aryaaa324/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
