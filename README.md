@@ -195,6 +195,7 @@ This README serves as a cheat-sheet and includes:
 | [0008-string-to-integer-atoi](https://github.com/aryaaa324/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aryaaa324/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryaaa324/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aryaaa324/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aryaaa324/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aryaaa324/Leetcode/tree/master/0125-valid-palindrome) |
@@ -211,6 +212,7 @@ This README serves as a cheat-sheet and includes:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
