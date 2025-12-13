@@ -323,10 +323,12 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryaaa324/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/aryaaa324/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryaaa324/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/aryaaa324/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
