@@ -215,6 +215,7 @@ This README serves as a cheat-sheet and includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/aryaaa324/Leetcode/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryaaa324/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -228,6 +229,7 @@ This README serves as a cheat-sheet and includes:
 | [0088-merge-sorted-array](https://github.com/aryaaa324/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aryaaa324/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aryaaa324/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/aryaaa324/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaaa324/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aryaaa324/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryaaa324/Leetcode/tree/master/0283-move-zeroes) |
@@ -326,11 +328,13 @@ This README serves as a cheat-sheet and includes:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryaaa324/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aryaaa324/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/aryaaa324/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aryaaa324/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryaaa324/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/aryaaa324/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aryaaa324/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
